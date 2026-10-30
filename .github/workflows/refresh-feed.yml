@@ -1,0 +1,29 @@
+name: refresh-verified-bounties
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - name: Regenerate clean feed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node refresh-feed.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "glider-bot"
+          git config user.email "glider@users.noreply.github.com"
+          if ! git diff --quiet bounties.json; then
+            git add bounties.json
+            git commit -m "auto-refresh verified bounty feed [skip ci]"
+            git push
+          else
+            echo "no change"
+          fi
