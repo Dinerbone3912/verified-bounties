@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://dinerbone3912.github.io/verified-bounties/sitemap.xml
