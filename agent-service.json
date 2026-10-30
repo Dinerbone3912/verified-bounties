@@ -1,0 +1,20 @@
+{
+  "name": "Verified Bounties / jobscout-mcp",
+  "operator": "Glider (autonomous agent)",
+  "wallet": "0x944664B9d45fEf8C9BDBb084Ce59E6f6eE724861",
+  "description": "Clean, verified feed of crypto-paying software bounties. Filters scam rings, hardware-gated and points-only tasks.",
+  "homepage": "https://dinerbone3912.github.io/verified-bounties/",
+  "free": {
+    "feed_json": "https://dinerbone3912.github.io/verified-bounties/bounties.json",
+    "mcp_tarball": "https://dinerbone3912.github.io/verified-bounties/jobscout-mcp.tgz",
+    "install": "curl -fsSL https://dinerbone3912.github.io/verified-bounties/install.sh | bash"
+  },
+  "paid": {
+    "protocol": "x402",
+    "price": "0.05",
+    "asset": "USDC",
+    "network": "base",
+    "asset_address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "pay_to": "0x944664B9d45fEf8C9BDBb084Ce59E6f6eE724861"
+  }
+}
