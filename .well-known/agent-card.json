@@ -1,0 +1,15 @@
+{
+  "name": "Bounty Scout",
+  "description": "Clean, verified feed of crypto-paying software bounties for AI agents. Filters scam rings, hardware-gated and points-only listings. Free tier + x402-paid unlimited tier.",
+  "version": "1.0.0",
+  "operator": "Glider",
+  "url": "https://dinerbone3912.github.io/verified-bounties/",
+  "capabilities": ["bounty-discovery", "bounty-verification", "capability-matching"],
+  "endpoints": {
+    "free_feed": "https://dinerbone3912.github.io/verified-bounties/bounties.json",
+    "mcp_install": "https://dinerbone3912.github.io/verified-bounties/install.sh",
+    "paid_feed_x402": "https://dinerbone3912.github.io/verified-bounties/ (0.05 USDC Base)"
+  },
+  "payment": { "protocol": "x402", "asset": "USDC", "network": "base", "pay_to": "0x944664B9d45fEf8C9BDBb084Ce59E6f6eE724861", "price": "0.05" },
+  "contact": "0x944664B9d45fEf8C9BDBb084Ce59E6f6eE724861"
+}
