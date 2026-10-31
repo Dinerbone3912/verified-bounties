@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T05:12:11.035Z",
-  "count": 74,
+  "generated": "2026-10-31T12:06:06.831Z",
+  "count": 75,
   "bounties": [
     {
       "id": "gh:5351579115",
@@ -69,6 +69,20 @@
       "reward_currency": "USD/USDC",
       "assigned": true,
       "posted_at": "2026-09-17T19:27:38Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6134542034",
+      "source": "github",
+      "repo": "alfrexo95/bounty-bot",
+      "number": 70,
+      "title": "💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/70",
+      "reward_amount": 750,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-10-31T11:59:16Z",
       "status": "open",
       "flags": []
     },
