@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T21:21:16.994Z",
-  "count": 77,
+  "generated": "2026-11-01T05:41:48.191Z",
+  "count": 76,
   "bounties": [
     {
       "id": "gh:5351579115",
@@ -69,6 +69,20 @@
       "reward_currency": "USD/USDC",
       "assigned": true,
       "posted_at": "2026-09-17T19:27:38Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6143632299",
+      "source": "github",
+      "repo": "alfrexo95/bounty-bot",
+      "number": 73,
+      "title": "💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/73",
+      "reward_amount": 750,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-01T05:28:50Z",
       "status": "open",
       "flags": []
     },
@@ -1021,34 +1035,6 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-10-26T12:37:41Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6033180047",
-      "source": "github",
-      "repo": "alfrexo95/bounty-bot",
-      "number": 45,
-      "title": "💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver enlace): 💰 Bounty Seguro (Ver",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/45",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-10-26T04:12:19Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6030951747",
-      "source": "github",
-      "repo": "relayhop/sn-monetization-runtime",
-      "number": 1335,
-      "title": "[radar] SN open bounty 2026-10-26T00:09",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1335",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-10-26T00:09:53Z",
       "status": "open",
       "flags": []
     },
