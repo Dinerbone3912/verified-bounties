@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T13:06:05.560Z",
-  "count": 76,
+  "generated": "2026-11-01T21:55:53.348Z",
+  "count": 80,
   "bounties": [
     {
       "id": "gh:5351579115",
@@ -69,6 +69,34 @@
       "reward_currency": "USD/USDC",
       "assigned": true,
       "posted_at": "2026-09-17T19:27:38Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6151080966",
+      "source": "github",
+      "repo": "alfrexo95/bounty-bot",
+      "number": 75,
+      "title": "💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bount",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/75",
+      "reward_amount": 750,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-01T19:26:55Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6148017193",
+      "source": "github",
+      "repo": "zhangjiayang6835-cyber/bounty-plaza",
+      "number": 4198,
+      "title": "[Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4198",
+      "reward_amount": 750,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-01T14:24:16Z",
       "status": "open",
       "flags": []
     },
@@ -507,6 +535,76 @@
       "flags": []
     },
     {
+      "id": "gh:6151132817",
+      "source": "github",
+      "repo": "relayhop/sn-monetization-runtime",
+      "number": 1349,
+      "title": "[radar] SN open bounty 2026-11-01T19:32",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1349",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-01T19:32:21Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6148385123",
+      "source": "github",
+      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
+      "number": 1383,
+      "title": "[BOUNTY] Suggestion #1301",
+      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1383",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-01T15:01:15Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6148378798",
+      "source": "github",
+      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
+      "number": 1382,
+      "title": "[BOUNTY] Suggestion #1298",
+      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1382",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-01T15:00:35Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6148359581",
+      "source": "github",
+      "repo": "relayhop/sn-monetization-runtime",
+      "number": 1348,
+      "title": "[radar] SN open bounty 2026-11-01T14:58",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1348",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-01T14:58:35Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6147605133",
+      "source": "github",
+      "repo": "Ikalus1988/MisakaNet",
+      "number": 4297,
+      "title": "[Bounty] Answer the 3 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4297",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-01T13:45:37Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6134668905",
       "source": "github",
       "repo": "relayhop/sn-monetization-runtime",
@@ -773,20 +871,6 @@
       "flags": []
     },
     {
-      "id": "gh:6053098118",
-      "source": "github",
-      "repo": "relayhop/sn-monetization-runtime",
-      "number": 1342,
-      "title": "[radar] SN open bounty 2026-10-27T04:52",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1342",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-10-27T04:52:16Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6050505886",
       "source": "github",
       "repo": "alfrexo95/bounty-bot",
@@ -797,20 +881,6 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-10-27T00:18:18Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6050183860",
-      "source": "github",
-      "repo": "relayhop/sn-monetization-runtime",
-      "number": 1341,
-      "title": "[radar] SN open bounty 2026-10-26T23:46",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1341",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-10-26T23:46:22Z",
       "status": "open",
       "flags": []
     },
@@ -1021,20 +1091,6 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-10-26T23:16:12Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6047524218",
-      "source": "github",
-      "repo": "alfrexo95/bounty-bot",
-      "number": 48,
-      "title": "💰 Bounty Seguro (Ver enlace): 🪙 [Web3] feat(mobile): add offline storage and que",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/48",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-10-26T20:23:08Z",
       "status": "open",
       "flags": []
     },
