@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T05:41:48.191Z",
+  "generated": "2026-11-01T13:06:05.560Z",
   "count": 76,
   "bounties": [
     {
@@ -69,6 +69,34 @@
       "reward_currency": "USD/USDC",
       "assigned": true,
       "posted_at": "2026-09-17T19:27:38Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6147167388",
+      "source": "github",
+      "repo": "alfrexo95/bounty-bot",
+      "number": 74,
+      "title": "💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/74",
+      "reward_amount": 750,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-01T12:59:41Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6144409872",
+      "source": "github",
+      "repo": "zhangjiayang6835-cyber/bounty-plaza",
+      "number": 4197,
+      "title": "[Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4197",
+      "reward_amount": 750,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-01T07:21:49Z",
       "status": "open",
       "flags": []
     },
@@ -1007,34 +1035,6 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-10-26T20:23:08Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6043093442",
-      "source": "github",
-      "repo": "alfrexo95/bounty-bot",
-      "number": 47,
-      "title": "🪙 [Web3] feat(mobile): add offline storage and queue sync f",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/47",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-10-26T15:45:45Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6039789952",
-      "source": "github",
-      "repo": "alfrexo95/bounty-bot",
-      "number": 46,
-      "title": "💰 Bounty Seguro (Ver enlace): feat(mobile): add offline storage and queue sync f",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/46",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-10-26T12:37:41Z",
       "status": "open",
       "flags": []
     },
