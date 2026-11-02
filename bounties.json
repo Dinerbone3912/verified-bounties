@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T21:55:53.348Z",
-  "count": 80,
+  "generated": "2026-11-02T05:39:59.475Z",
+  "count": 78,
   "bounties": [
     {
       "id": "gh:5351579115",
@@ -69,6 +69,34 @@
       "reward_currency": "USD/USDC",
       "assigned": true,
       "posted_at": "2026-09-17T19:27:38Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6154738932",
+      "source": "github",
+      "repo": "zhangjiayang6835-cyber/bounty-plaza",
+      "number": 4199,
+      "title": "[Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4199",
+      "reward_amount": 750,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-02T01:54:36Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6153935870",
+      "source": "github",
+      "repo": "alfrexo95/bounty-bot",
+      "number": 76,
+      "title": "💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ",
+      "url": "https://github.com/alfrexo95/bounty-bot/issues/76",
+      "reward_amount": 750,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-02T00:28:26Z",
       "status": "open",
       "flags": []
     },
@@ -535,6 +563,20 @@
       "flags": []
     },
     {
+      "id": "gh:6153411372",
+      "source": "github",
+      "repo": "relayhop/sn-monetization-runtime",
+      "number": 1350,
+      "title": "[radar] SN open bounty 2026-11-01T23:30",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1350",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-01T23:30:13Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6151132817",
       "source": "github",
       "repo": "relayhop/sn-monetization-runtime",
@@ -829,34 +871,6 @@
       "flags": []
     },
     {
-      "id": "gh:6058761459",
-      "source": "github",
-      "repo": "relayhop/sn-monetization-runtime",
-      "number": 1344,
-      "title": "[radar] SN open bounty 2026-10-27T12:01",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1344",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-10-27T12:01:01Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6057331751",
-      "source": "github",
-      "repo": "relayhop/sn-monetization-runtime",
-      "number": 1343,
-      "title": "[radar] SN open bounty 2026-10-27T10:25",
-      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1343",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-10-27T10:25:03Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6055893438",
       "source": "github",
       "repo": "alfrexo95/bounty-bot",
@@ -1035,48 +1049,6 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-10-26T23:16:45Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6049852992",
-      "source": "github",
-      "repo": "hanzoai/ci",
-      "number": 12,
-      "title": "Add bin/modsize_test.sh and register it in hanzo.yml",
-      "url": "https://github.com/hanzoai/ci/issues/12",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-10-26T23:16:41Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6049852134",
-      "source": "github",
-      "repo": "hanzoai/orm",
-      "number": 8,
-      "title": "Add tests for db.Model: SoftDelete, GetByID, SetKeyFromString",
-      "url": "https://github.com/hanzoai/orm/issues/8",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-10-26T23:16:36Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6049849725",
-      "source": "github",
-      "repo": "hanzoai/sqlite",
-      "number": 4,
-      "title": "Add tests for the Option constructors and DB.Encrypted",
-      "url": "https://github.com/hanzoai/sqlite/issues/4",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-10-26T23:16:23Z",
       "status": "open",
       "flags": []
     },
