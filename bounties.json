@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T00:51:51.722Z",
+  "generated": "2026-11-03T13:58:56.833Z",
   "count": 79,
   "bounties": [
     {
@@ -577,6 +577,34 @@
       "flags": []
     },
     {
+      "id": "gh:6179620402",
+      "source": "github",
+      "repo": "auscaster/frantic-board",
+      "number": 574,
+      "title": "Frantic bounty #145: Install NitroMTA and send one real email to proof@nitromta.com",
+      "url": "https://github.com/auscaster/frantic-board/issues/574",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-03T09:15:46Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6177560918",
+      "source": "github",
+      "repo": "relayhop/sn-monetization-runtime",
+      "number": 1354,
+      "title": "[radar] SN open bounty 2026-11-03T06:35",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1354",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-03T06:35:05Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6172929492",
       "source": "github",
       "repo": "relayhop/sn-monetization-runtime",
@@ -601,20 +629,6 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-11-02T15:36:17Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6160616916",
-      "source": "github",
-      "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
-      "number": 1385,
-      "title": "[BOUNTY] Suggestion #1283",
-      "url": "https://github.com/SPLURT-Station/S.P.L.U.R.T-tg/issues/1385",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-11-02T10:19:50Z",
       "status": "open",
       "flags": []
     },
@@ -1049,20 +1063,6 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-10-26T23:17:06Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6049856044",
-      "source": "github",
-      "repo": "hanzoai/mcp",
-      "number": 14,
-      "title": "Make skipFor ci/headless work and count skipped tests in test-suite",
-      "url": "https://github.com/hanzoai/mcp/issues/14",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-10-26T23:16:57Z",
       "status": "open",
       "flags": []
     },
