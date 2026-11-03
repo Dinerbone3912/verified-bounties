@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-02T15:29:02.397Z",
-  "count": 78,
+  "generated": "2026-11-03T00:51:51.722Z",
+  "count": 79,
   "bounties": [
     {
       "id": "gh:5351579115",
@@ -59,16 +59,16 @@
       "flags": []
     },
     {
-      "id": "gh:5491809342",
+      "id": "gh:6169462628",
       "source": "github",
-      "repo": "tenstorrent/tt-metal",
-      "number": 56908,
-      "title": "[Bounty $3000] Fix distributed LayerNorm/RMSNorm 2D-core-grid row-stride corruption",
-      "url": "https://github.com/tenstorrent/tt-metal/issues/56908",
-      "reward_amount": 3000,
+      "repo": "zhangjiayang6835-cyber/bounty-plaza",
+      "number": 4201,
+      "title": "[Bounty] 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4201",
+      "reward_amount": 750,
       "reward_currency": "USD/USDC",
-      "assigned": true,
-      "posted_at": "2026-09-17T19:27:38Z",
+      "assigned": false,
+      "posted_at": "2026-11-02T19:27:42Z",
       "status": "open",
       "flags": []
     },
@@ -577,6 +577,34 @@
       "flags": []
     },
     {
+      "id": "gh:6172929492",
+      "source": "github",
+      "repo": "relayhop/sn-monetization-runtime",
+      "number": 1353,
+      "title": "[radar] SN open bounty 2026-11-02T23:25",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1353",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-02T23:25:57Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6165704923",
+      "source": "github",
+      "repo": "relayhop/sn-monetization-runtime",
+      "number": 1352,
+      "title": "[radar] SN open bounty 2026-11-02T15:36",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1352",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-02T15:36:17Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6160616916",
       "source": "github",
       "repo": "SPLURT-Station/S.P.L.U.R.T-tg",
@@ -1035,20 +1063,6 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-10-26T23:16:57Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6049855255",
-      "source": "github",
-      "repo": "hanzoai/cli",
-      "number": 12,
-      "title": "Rewrite CONTRIBUTING.md for the Rust CLI; it describes a Python app",
-      "url": "https://github.com/hanzoai/cli/issues/12",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-10-26T23:16:53Z",
       "status": "open",
       "flags": []
     },
