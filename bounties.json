@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T21:41:53.048Z",
-  "count": 115,
+  "generated": "2026-11-08T05:43:46.153Z",
+  "count": 114,
   "bounties": [
     {
       "id": "gh:5351579115",
@@ -479,20 +479,6 @@
       "flags": []
     },
     {
-      "id": "gh:6127708839",
-      "source": "github",
-      "repo": "alfrexo95/bounty-bot",
-      "number": 68,
-      "title": "💰 Bounty Seguro ($$750): [Bounty] [Bounty $750] Improve Qwen3-TTS Code Pred",
-      "url": "https://github.com/alfrexo95/bounty-bot/issues/68",
-      "reward_amount": 750,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-10-30T22:08:13Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6244933000",
       "source": "github",
       "repo": "tenstorrent/tt-metal",
@@ -763,7 +749,7 @@
       "source": "github",
       "repo": "IES-BoilerRoom/protocol-conformance-relay",
       "number": 2,
-      "title": "💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (_reconcile_slab_view_v3)",
+      "title": "💎 [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (_arbitrate_quorum_latch_v5)",
       "url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2",
       "reward_amount": 600,
       "reward_currency": "USD/USDC",
@@ -819,7 +805,7 @@
       "source": "github",
       "repo": "WholeTroutMedia/protocol-conformance-relay",
       "number": 2,
-      "title": "[Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (_reconcile_slab_view_v3)",
+      "title": "[Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked Preemption (_arbitrate_quorum_latch_v5)",
       "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/2",
       "reward_amount": 600,
       "reward_currency": "USD/USDC",
@@ -1071,7 +1057,7 @@
       "source": "github",
       "repo": "IES-BoilerRoom/protocol-conformance-relay",
       "number": 1,
-      "title": "💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (coalesce_barrier_ring_2eb)",
+      "title": "💎 [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (compact_slab_state_25b)",
       "url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/1",
       "reward_amount": 450,
       "reward_currency": "USD/USDC",
@@ -1127,7 +1113,7 @@
       "source": "github",
       "repo": "WholeTroutMedia/protocol-conformance-relay",
       "number": 1,
-      "title": "[Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (coalesce_barrier_ring_2eb)",
+      "title": "[Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure Backoff (compact_slab_state_25b)",
       "url": "https://github.com/WholeTroutMedia/protocol-conformance-relay/issues/1",
       "reward_amount": 450,
       "reward_currency": "USD/USDC",
