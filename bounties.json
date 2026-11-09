@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-09T05:54:28.680Z",
-  "count": 106,
+  "generated": "2026-11-09T15:55:10.998Z",
+  "count": 107,
   "bounties": [
     {
       "id": "gh:5351579115",
@@ -283,20 +283,6 @@
       "flags": []
     },
     {
-      "id": "gh:6262470346",
-      "source": "github",
-      "repo": "PhanKhoa95/oss-bot-trap-benchmark",
-      "number": 45,
-      "title": "[Bounty $950] feat(validator): enforce CANONICAL_GAP_CONTRACT in verify_sequence_gap",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/45",
-      "reward_amount": 950,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-07T18:03:20Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6263781096",
       "source": "github",
       "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -307,20 +293,6 @@
       "reward_currency": "USD/USDC",
       "assigned": false,
       "posted_at": "2026-11-07T20:24:47Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6262470170",
-      "source": "github",
-      "repo": "PhanKhoa95/oss-bot-trap-benchmark",
-      "number": 44,
-      "title": "[Bounty $900] perf(validator): replace floor division with bitwise mask in compute_checkpoint_boundary",
-      "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/44",
-      "reward_amount": 900,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-07T18:03:19Z",
       "status": "open",
       "flags": []
     },
@@ -475,20 +447,6 @@
       "reward_currency": "USD/USDC",
       "assigned": false,
       "posted_at": "2026-11-01T12:59:41Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6144409872",
-      "source": "github",
-      "repo": "zhangjiayang6835-cyber/bounty-plaza",
-      "number": 4197,
-      "title": "[Bounty] 💰 Bounty Seguro ($$750): 💰 Bounty Seguro ($$750): [Bounty] 💰 Bounty Seguro ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4197",
-      "reward_amount": 750,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-01T07:21:49Z",
       "status": "open",
       "flags": []
     },
@@ -1333,6 +1291,20 @@
       "flags": []
     },
     {
+      "id": "gh:6280906922",
+      "source": "github",
+      "repo": "relayhop/sn-monetization-runtime",
+      "number": 1363,
+      "title": "[radar] SN open bounty 2026-11-09T06:05",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1363",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-09T06:05:29Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6277070660",
       "source": "github",
       "repo": "relayhop/sn-monetization-runtime",
@@ -1399,6 +1371,48 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-11-08T07:12:04Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6267133910",
+      "source": "github",
+      "repo": "andrewsiah/agentswarm-cli",
+      "number": 2,
+      "title": "[$3 site credit] Replace the retired tasks --mission filter with --task in both CLIs",
+      "url": "https://github.com/andrewsiah/agentswarm-cli/issues/2",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-08T03:23:51Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6263563797",
+      "source": "github",
+      "repo": "andrewsiah/agentswarm-mcp",
+      "number": 1,
+      "title": "[$1 site credit] initialize: validate capabilities/clientInfo shape (-32602)",
+      "url": "https://github.com/andrewsiah/agentswarm-mcp/issues/1",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-07T20:00:19Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6221884282",
+      "source": "github",
+      "repo": "tari-project/universe",
+      "number": 3492,
+      "title": "MCP server: no error shown when the configured port is already in use",
+      "url": "https://github.com/tari-project/universe/issues/3492",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-05T11:02:34Z",
       "status": "open",
       "flags": []
     },
