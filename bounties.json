@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-12T00:27:18.371Z",
-  "count": 105,
+  "generated": "2026-11-12T14:59:06.072Z",
+  "count": 104,
   "bounties": [
     {
       "id": "gh:5351579115",
@@ -535,48 +535,6 @@
       "flags": []
     },
     {
-      "id": "gh:6235969478",
-      "source": "github",
-      "repo": "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix",
-      "number": 2,
-      "title": "[Escrowed $600 USDC] Eliminate ABA generation counter skew across heterogeneous ring capacities (`tokio-ringbuffer-seqcst-matrix`)",
-      "url": "https://github.com/IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix/issues/2",
-      "reward_amount": 600,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-06T03:12:35Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6235831527",
-      "source": "github",
-      "repo": "IES-BoilerRoom/protocol-conformance-relay",
-      "number": 2,
-      "title": "[Escrowed $600 USDC] Eliminate ABA generation counter skew across heterogeneous ring capacities (`drain_mpsc_epoch_frames`)",
-      "url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2",
-      "reward_amount": 600,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-06T02:59:48Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6229025753",
-      "source": "github",
-      "repo": "zhangjiayang6835-cyber/bounty-plaza",
-      "number": 4207,
-      "title": "[Bounty] [Bounty $600 USDC] PagedAttention KV-Cache Block Desync on Prefix-Aware Chunked ",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4207",
-      "reward_amount": 600,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-05T18:17:54Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6319566173",
       "source": "github",
       "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -843,20 +801,6 @@
       "flags": []
     },
     {
-      "id": "gh:6229025925",
-      "source": "github",
-      "repo": "zhangjiayang6835-cyber/bounty-plaza",
-      "number": 4208,
-      "title": "[Bounty] [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4208",
-      "reward_amount": 450,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-05T18:17:55Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6319566278",
       "source": "github",
       "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1081,6 +1025,48 @@
       "flags": []
     },
     {
+      "id": "gh:6351318734",
+      "source": "github",
+      "repo": "Ikalus1988/MisakaNet",
+      "number": 4751,
+      "title": "[Bounty][$0][i18n] 多语言 README：新增 한국어 / Español / Français / Deutsch / Português(BR) / Русский（一门语言一个 PR）",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4751",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-12T13:55:20Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6343520483",
+      "source": "github",
+      "repo": "nomos-spec/spec",
+      "number": 33,
+      "title": "Call for implementations: independent SPEC-014 resolver (weekend-sized) — take Resolution out of Draft",
+      "url": "https://github.com/nomos-spec/spec/issues/33",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-12T05:28:21Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6343517580",
+      "source": "github",
+      "repo": "nomos-spec/spec",
+      "number": 32,
+      "title": "Call for implementations: independent SPEC-008 Act verifier — be the one that takes it out of Draft",
+      "url": "https://github.com/nomos-spec/spec/issues/32",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-12T05:28:05Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6334967342",
       "source": "github",
       "repo": "coreguard-global/CoreGuard",
@@ -1221,20 +1207,6 @@
       "flags": []
     },
     {
-      "id": "gh:6300064657",
-      "source": "github",
-      "repo": "andrewsiah/agentswarm-mcp",
-      "number": 12,
-      "title": "[$2 site credit] Add a Vietnamese README for agentswarm-mcp",
-      "url": "https://github.com/andrewsiah/agentswarm-mcp/issues/12",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-11-10T04:07:46Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6298707826",
       "source": "github",
       "repo": "andrewsiah/agentswarm-pi",
@@ -1287,20 +1259,6 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-11-09T21:32:46Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6293938061",
-      "source": "github",
-      "repo": "andrewsiah/agentswarm-pi",
-      "number": 1,
-      "title": "[$2 site credit] Add a Spanish README for agentswarm-pi",
-      "url": "https://github.com/andrewsiah/agentswarm-pi/issues/1",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-11-09T20:17:24Z",
       "status": "open",
       "flags": []
     },
@@ -1385,6 +1343,34 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-11-09T19:23:22Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6293059802",
+      "source": "github",
+      "repo": "hanzoai/ai",
+      "number": 132,
+      "title": "[QA Bounty] [P1] Text Generation Edge Cases",
+      "url": "https://github.com/hanzoai/ai/issues/132",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-09T19:23:19Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6293058994",
+      "source": "github",
+      "repo": "hanzoai/ai",
+      "number": 131,
+      "title": "[QA Bounty] [P1] Image Generation Consistency",
+      "url": "https://github.com/hanzoai/ai/issues/131",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-09T19:23:16Z",
       "status": "open",
       "flags": []
     },
