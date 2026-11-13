@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-13T06:15:06.473Z",
-  "count": 105,
+  "generated": "2026-11-13T19:29:58.634Z",
+  "count": 107,
   "bounties": [
     {
       "id": "gh:5351579115",
@@ -591,6 +591,20 @@
       "flags": []
     },
     {
+      "id": "gh:6235831527",
+      "source": "github",
+      "repo": "IES-BoilerRoom/protocol-conformance-relay",
+      "number": 2,
+      "title": "[Escrowed $600 USDC] Eliminate ABA generation counter skew across heterogeneous ring capacities (`drain_mpsc_epoch_frames`)",
+      "url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2",
+      "reward_amount": 600,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-06T02:59:48Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6362125503",
       "source": "github",
       "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -885,6 +899,20 @@
       "flags": []
     },
     {
+      "id": "gh:6229025925",
+      "source": "github",
+      "repo": "zhangjiayang6835-cyber/bounty-plaza",
+      "number": 4208,
+      "title": "[Bounty] [Bounty $450 USDC] Streaming MCP SSE Chunk Boundary Reassembly with Backpressure",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4208",
+      "reward_amount": 450,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-05T18:17:55Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6319566278",
       "source": "github",
       "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -1109,6 +1137,76 @@
       "flags": []
     },
     {
+      "id": "gh:6373794974",
+      "source": "github",
+      "repo": "Ikalus1988/MisakaNet",
+      "number": 4801,
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/4801",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-13T14:53:46Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6373299083",
+      "source": "github",
+      "repo": "relayhop/sn-monetization-runtime",
+      "number": 1376,
+      "title": "[radar] SN open bounty 2026-11-13T14:28",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1376",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-13T14:28:15Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6367524333",
+      "source": "github",
+      "repo": "crit-labs/crit",
+      "number": 53,
+      "title": "[Bounty] gguf-rows reads the ternary TQ1_0 and TQ2_0 formats",
+      "url": "https://github.com/crit-labs/crit/issues/53",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": true,
+      "posted_at": "2026-11-13T08:13:40Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6367523976",
+      "source": "github",
+      "repo": "crit-labs/crit",
+      "number": 52,
+      "title": "[Bounty] Faster decode GEMVs for IQ1_S, IQ1_M and IQ2_*, bit for bit",
+      "url": "https://github.com/crit-labs/crit/issues/52",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": true,
+      "posted_at": "2026-11-13T08:13:39Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6367522089",
+      "source": "github",
+      "repo": "crit-labs/crit",
+      "number": 47,
+      "title": "[Bounty] paged-kv-attention derives keys from cached values on read",
+      "url": "https://github.com/crit-labs/crit/issues/47",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": true,
+      "posted_at": "2026-11-13T08:13:31Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6364102773",
       "source": "github",
       "repo": "andrewsiah/agentswarm-pi",
@@ -1277,20 +1375,6 @@
       "flags": []
     },
     {
-      "id": "gh:6343520483",
-      "source": "github",
-      "repo": "nomos-spec/spec",
-      "number": 33,
-      "title": "Call for implementations: independent SPEC-014 resolver (weekend-sized) — take Resolution out of Draft",
-      "url": "https://github.com/nomos-spec/spec/issues/33",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-11-12T05:28:21Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6343517580",
       "source": "github",
       "repo": "nomos-spec/spec",
@@ -1357,62 +1441,6 @@
       "reward_currency": null,
       "assigned": true,
       "posted_at": "2026-11-10T23:09:39Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6316116048",
-      "source": "github",
-      "repo": "auscaster/frantic-board",
-      "number": 589,
-      "title": "Frantic bounty #148: Write one draft in a famous voice with Silvertongue's MCP server",
-      "url": "https://github.com/auscaster/frantic-board/issues/589",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-11-10T21:22:21Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6314803880",
-      "source": "github",
-      "repo": "bshelby88/raen-bounties",
-      "number": 4,
-      "title": "BOUNTY-04: GitHub Action that watches x402 manifests for drift",
-      "url": "https://github.com/bshelby88/raen-bounties/issues/4",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": true,
-      "posted_at": "2026-11-10T20:02:34Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6314803519",
-      "source": "github",
-      "repo": "bshelby88/raen-bounties",
-      "number": 3,
-      "title": "BOUNTY-03: CrewAI tool wrappers for dispute_letter + contract_analyze",
-      "url": "https://github.com/bshelby88/raen-bounties/issues/3",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": true,
-      "posted_at": "2026-11-10T20:02:32Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6314803081",
-      "source": "github",
-      "repo": "bshelby88/raen-bounties",
-      "number": 2,
-      "title": "BOUNTY-02: One-file Python CLI client for the 12-service x402 fleet",
-      "url": "https://github.com/bshelby88/raen-bounties/issues/2",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": true,
-      "posted_at": "2026-11-10T20:02:31Z",
       "status": "open",
       "flags": []
     },
