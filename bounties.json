@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T19:24:19.613Z",
-  "count": 119,
+  "generated": "2026-11-23T07:11:22.783Z",
+  "count": 121,
   "bounties": [
     {
       "id": "gh:6310407130",
@@ -153,6 +153,20 @@
       "reward_currency": "USD/USDC",
       "assigned": false,
       "posted_at": "2026-11-06T03:42:47Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6234318791",
+      "source": "github",
+      "repo": "tenstorrent/tt-metal",
+      "number": 64575,
+      "title": "[Bounty $750] Fix sharded softmax on offset core grids",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/64575",
+      "reward_amount": 750,
+      "reward_currency": "USD/USDC",
+      "assigned": true,
+      "posted_at": "2026-11-06T00:36:43Z",
       "status": "open",
       "flags": []
     },
@@ -339,6 +353,20 @@
       "flags": []
     },
     {
+      "id": "gh:6552775411",
+      "source": "github",
+      "repo": "IES-BoilerRoom/pcie-tlp-credit-flow-gate",
+      "number": 2,
+      "title": "($350) perf/fix: Align Posted/Non-Posted header credit wrap mask under 256B FLIT packing (pcie-tlp-credit-flow-gate)",
+      "url": "https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/2",
+      "reward_amount": 350,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-23T05:14:51Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6514637092",
       "source": "github",
       "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -381,6 +409,20 @@
       "flags": []
     },
     {
+      "id": "gh:6552775102",
+      "source": "github",
+      "repo": "IES-BoilerRoom/vllm-paged-kv-verifier",
+      "number": 2,
+      "title": "[$300] fix(kv_cache): Align prefix-cache copy-on-write watermark across TP=8 shard moduli (vllm-paged-kv-verifier)",
+      "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2",
+      "reward_amount": 300,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-23T05:14:49Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6541993112",
       "source": "github",
       "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -391,20 +433,6 @@
       "reward_currency": "USD/USDC",
       "assigned": false,
       "posted_at": "2026-11-22T11:46:54Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6538314859",
-      "source": "github",
-      "repo": "IES-BoilerRoom/cpython-pep626-line-profiler",
-      "number": 2,
-      "title": "fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]",
-      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2",
-      "reward_amount": 250,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-22T04:12:46Z",
       "status": "open",
       "flags": []
     },
@@ -451,6 +479,34 @@
       "flags": []
     },
     {
+      "id": "gh:6552775311",
+      "source": "github",
+      "repo": "IES-BoilerRoom/pcie-tlp-credit-flow-gate",
+      "number": 1,
+      "title": "[225 USDC] Resolve TLP frame ceiling boundary and infinite-wrap credit bitvector identity (reassemble_tlp_flit_frames)",
+      "url": "https://github.com/IES-BoilerRoom/pcie-tlp-credit-flow-gate/issues/1",
+      "reward_amount": 225,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-23T05:14:50Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6235831527",
+      "source": "github",
+      "repo": "IES-BoilerRoom/protocol-conformance-relay",
+      "number": 2,
+      "title": "[$225] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (segment_bbr_ack_frames)",
+      "url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2",
+      "reward_amount": 225,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-06T02:59:48Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6485740693",
       "source": "github",
       "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -461,20 +517,6 @@
       "reward_currency": "USD/USDC",
       "assigned": false,
       "posted_at": "2026-11-19T08:41:48Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6449896381",
-      "source": "github",
-      "repo": "IES-BoilerRoom/wgsl-transcendental-math-core",
-      "number": 2,
-      "title": "fix(shader_math): Align WGSL constant-eval Horner polynomial rounding with runtime pipeline ($200 bounty) [wgsl-transcendental-math-core]",
-      "url": "https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/2",
-      "reward_amount": 200,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-17T17:06:08Z",
       "status": "open",
       "flags": []
     },
@@ -563,20 +605,6 @@
       "flags": []
     },
     {
-      "id": "gh:6449896091",
-      "source": "github",
-      "repo": "IES-BoilerRoom/wgsl-transcendental-math-core",
-      "number": 1,
-      "title": "($150) perf/fix: Correct packet frame boundary clamp and 0.5-ULP FMA range-reduction tie-break (fold_wgsl_radiance_frames)",
-      "url": "https://github.com/IES-BoilerRoom/wgsl-transcendental-math-core/issues/1",
-      "reward_amount": 150,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-17T17:06:07Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6412617228",
       "source": "github",
       "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -633,30 +661,30 @@
       "flags": []
     },
     {
-      "id": "gh:6538314806",
+      "id": "gh:6412617156",
       "source": "github",
-      "repo": "IES-BoilerRoom/cpython-pep626-line-profiler",
-      "number": 1,
-      "title": "fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]",
-      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1",
-      "reward_amount": 125,
+      "repo": "zhangjiayang6835-cyber/bounty-plaza",
+      "number": 4357,
+      "title": "[Bounty] Bounty $100: capture adapter for Intercom",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4357",
+      "reward_amount": 100,
       "reward_currency": "USD/USDC",
       "assigned": false,
-      "posted_at": "2026-11-22T04:12:46Z",
+      "posted_at": "2026-11-16T02:03:38Z",
       "status": "open",
       "flags": []
     },
     {
-      "id": "gh:6235831527",
+      "id": "gh:6412617080",
       "source": "github",
-      "repo": "IES-BoilerRoom/protocol-conformance-relay",
-      "number": 2,
-      "title": "fix(shader_math): Align WGSL constant-eval Horner polynomial rounding with runtime pipeline ($125 bounty) [segment_bbr_ack_frames]",
-      "url": "https://github.com/IES-BoilerRoom/protocol-conformance-relay/issues/2",
-      "reward_amount": 125,
+      "repo": "zhangjiayang6835-cyber/bounty-plaza",
+      "number": 4356,
+      "title": "[Bounty] Bounty $100: capture adapter for Gorgias",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4356",
+      "reward_amount": 100,
       "reward_currency": "USD/USDC",
       "assigned": false,
-      "posted_at": "2026-11-06T02:59:48Z",
+      "posted_at": "2026-11-16T02:03:37Z",
       "status": "open",
       "flags": []
     },
@@ -675,6 +703,20 @@
       "flags": []
     },
     {
+      "id": "gh:6552775013",
+      "source": "github",
+      "repo": "IES-BoilerRoom/vllm-paged-kv-verifier",
+      "number": 1,
+      "title": "ci/kv_cache: Fix KV frame chunk ceiling and reconcile multi-head block stride congruences - Reward $75 USDC",
+      "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1",
+      "reward_amount": 75,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-23T05:14:48Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6538315074",
       "source": "github",
       "repo": "IES-BoilerRoom/bgp-med-oscillation-verifier",
@@ -685,6 +727,34 @@
       "reward_currency": "USD/USDC",
       "assigned": false,
       "posted_at": "2026-11-22T04:12:48Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:5950653348",
+      "source": "github",
+      "repo": "zhangjiayang6835-cyber/bounty-plaza",
+      "number": 4061,
+      "title": "[Bounty] [TEST BOUNTY] Fix typo in README",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4061",
+      "reward_amount": 50,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-10-20T22:25:17Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:5949384825",
+      "source": "github",
+      "repo": "jomaaabbe78-spec/bookningsapp",
+      "number": 1,
+      "title": "[TEST BOUNTY] Fix typo in README",
+      "url": "https://github.com/jomaaabbe78-spec/bookningsapp/issues/1",
+      "reward_amount": 50,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-10-20T20:46:34Z",
       "status": "open",
       "flags": []
     },
@@ -731,20 +801,6 @@
       "flags": []
     },
     {
-      "id": "gh:6499529015",
-      "source": "github",
-      "repo": "Fractal-Neurons/pacta",
-      "number": 118,
-      "title": "[Wave 3: 2 × $20 USDC | 3-Year Protocol Trajectory & Integrity Dossiers] Human-Researcher Control-Plane Due-Diligence Pool",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/118",
-      "reward_amount": 20,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-19T21:36:08Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6413316180",
       "source": "github",
       "repo": "bshelby88/raen-bounties",
@@ -755,6 +811,20 @@
       "reward_currency": "USD/USDC",
       "assigned": false,
       "posted_at": "2026-11-16T03:08:00Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6549624829",
+      "source": "github",
+      "repo": "relayhop/sn-monetization-runtime",
+      "number": 1433,
+      "title": "[radar] SN open bounty 2026-11-23T00:12",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1433",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-23T00:12:09Z",
       "status": "open",
       "flags": []
     },
@@ -1361,20 +1431,6 @@
       "flags": []
     },
     {
-      "id": "gh:6531160638",
-      "source": "github",
-      "repo": "Fractal-Neurons/pacta",
-      "number": 159,
-      "title": "[Wave 4: 10 × $2.00 USDC | Control-Plane Watch] Open Now (567 Watched Addresses · Ethereum & Base)",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/159",
-      "reward_amount": 0,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-21T16:05:57Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6531025967",
       "source": "github",
       "repo": "Fractal-Neurons/pacta",
@@ -1567,34 +1623,6 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-11-16T03:08:01Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6525391980",
-      "source": "github",
-      "repo": "tradermarketcap/tradermarketcap-open",
-      "number": 18,
-      "title": "Fix AERO's listed Base contract",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/18",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-11-21T06:18:12Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6525391810",
-      "source": "github",
-      "repo": "tradermarketcap/tradermarketcap-open",
-      "number": 17,
-      "title": "Fix QNT supply (totalSupply is hardcoded)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/17",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-11-21T06:18:11Z",
       "status": "open",
       "flags": []
     },
