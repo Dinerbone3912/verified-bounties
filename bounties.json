@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T23:44:33.209Z",
+  "generated": "2026-11-24T09:35:09.874Z",
   "count": 121,
   "bounties": [
     {
@@ -605,20 +605,6 @@
       "flags": []
     },
     {
-      "id": "gh:6412617228",
-      "source": "github",
-      "repo": "zhangjiayang6835-cyber/bounty-plaza",
-      "number": 4358,
-      "title": "[Bounty] Bounty $150: capture adapter for Front",
-      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4358",
-      "reward_amount": 150,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-16T02:03:38Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6270176768",
       "source": "github",
       "repo": "IES-BoilerRoom/Furnace",
@@ -783,6 +769,20 @@
       "reward_currency": "USD/USDC",
       "assigned": false,
       "posted_at": "2026-11-16T03:08:00Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6575629264",
+      "source": "github",
+      "repo": "relayhop/sn-monetization-runtime",
+      "number": 1442,
+      "title": "[radar] SN open bounty 2026-11-24T05:55",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1442",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-24T05:55:43Z",
       "status": "open",
       "flags": []
     },
@@ -1417,34 +1417,6 @@
       "flags": []
     },
     {
-      "id": "gh:6531160638",
-      "source": "github",
-      "repo": "Fractal-Neurons/pacta",
-      "number": 159,
-      "title": "[Wave 4: 15 × $2.00 USDC | Control-Plane Watch] 5 More Awards Open Now (567 Watched Addresses · Ethereum & Base)",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/159",
-      "reward_amount": 0,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-21T16:05:57Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6531025967",
-      "source": "github",
-      "repo": "Fractal-Neurons/pacta",
-      "number": 158,
-      "title": "[Wave 4: 24 × $1.00 USDC | Observed Catalogue] Batch 1 + Batch 2 Open Now (24 Slots · Ethereum & Base)",
-      "url": "https://github.com/Fractal-Neurons/pacta/issues/158",
-      "reward_amount": 0,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-21T15:53:53Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6440493059",
       "source": "github",
       "repo": "OphirPay/OphirPay",
@@ -1469,6 +1441,34 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-11-17T06:10:53Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6433246971",
+      "source": "github",
+      "repo": "hanzoai/cloud",
+      "number": 32,
+      "title": "Verifiable agent-produced artifacts (SLSA provenance, Sigstore)",
+      "url": "https://github.com/hanzoai/cloud/issues/32",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-16T23:36:56Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6432874733",
+      "source": "github",
+      "repo": "hanzoai/vfs",
+      "number": 44,
+      "title": "Audit redundant requests across host, gofer and S3 (CETOFS)",
+      "url": "https://github.com/hanzoai/vfs/issues/44",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-16T23:11:37Z",
       "status": "open",
       "flags": []
     },
