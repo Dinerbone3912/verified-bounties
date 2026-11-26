@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T07:55:44.178Z",
-  "count": 112,
+  "generated": "2026-11-26T21:19:29.830Z",
+  "count": 111,
   "bounties": [
     {
       "id": "gh:6310407130",
@@ -139,6 +139,20 @@
       "reward_currency": "USD/USDC",
       "assigned": true,
       "posted_at": "2026-11-06T14:55:51Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6236275176",
+      "source": "github",
+      "repo": "zhangjiayang6835-cyber/bounty-plaza",
+      "number": 4225,
+      "title": "[Bounty] [Bounty $750] Fix sharded softmax on offset core grids",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4225",
+      "reward_amount": 750,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-06T03:42:47Z",
       "status": "open",
       "flags": []
     },
@@ -297,6 +311,20 @@
       "flags": []
     },
     {
+      "id": "gh:6623326404",
+      "source": "github",
+      "repo": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
+      "number": 1,
+      "title": "[350 USDC] Fix ALU64 chunk ceiling boundary and tristate tnum scalar bitmask witness (refine_bpf_tnum_frames)",
+      "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/1",
+      "reward_amount": 350,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-26T09:13:07Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6514637092",
       "source": "github",
       "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -325,30 +353,16 @@
       "flags": []
     },
     {
-      "id": "gh:6552775102",
+      "id": "gh:6623326884",
       "source": "github",
-      "repo": "IES-BoilerRoom/vllm-paged-kv-verifier",
+      "repo": "IES-BoilerRoom/ebpf-verifier-reg-bounds",
       "number": 2,
-      "title": "[$300] fix(kv_cache): Align prefix-cache copy-on-write watermark across TP=8 shard moduli (vllm-paged-kv-verifier)",
-      "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/2",
-      "reward_amount": 300,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-23T05:14:49Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6592427807",
-      "source": "github",
-      "repo": "IES-BoilerRoom/cpython-pep626-line-profiler",
-      "number": 2,
-      "title": "fix(dwarf_trace): Preserve exact column-offset delta invariants across exception handler tables ($250 bounty) [cpython-pep626-line-profiler]",
-      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/2",
+      "title": "[$250] fix(verifier): Tighten 32-bit subregister zero-extension parity across conditional joins (ebpf-verifier-reg-bounds)",
+      "url": "https://github.com/IES-BoilerRoom/ebpf-verifier-reg-bounds/issues/2",
       "reward_amount": 250,
       "reward_currency": "USD/USDC",
       "assigned": false,
-      "posted_at": "2026-11-24T22:11:26Z",
+      "posted_at": "2026-11-26T09:13:08Z",
       "status": "open",
       "flags": []
     },
@@ -395,6 +409,20 @@
       "flags": []
     },
     {
+      "id": "gh:6623325618",
+      "source": "github",
+      "repo": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
+      "number": 1,
+      "title": "[$200] fix(ftl_ecc): Resolve ZNS frame length boundary and align 64-lane BCH syndrome parity word (unpack_zns_metadata_frames)",
+      "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/1",
+      "reward_amount": 200,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-26T09:13:04Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6485740693",
       "source": "github",
       "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -419,6 +447,20 @@
       "reward_currency": "USD/USDC",
       "assigned": false,
       "posted_at": "2026-11-16T08:07:38Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6623325859",
+      "source": "github",
+      "repo": "IES-BoilerRoom/nvme-zns-bch-ecc-simulator",
+      "number": 2,
+      "title": "ci/ftl_ecc: Stabilize polynomial-to-dual-basis trace tag across zone append descriptors - Reward $175 USDC",
+      "url": "https://github.com/IES-BoilerRoom/nvme-zns-bch-ecc-simulator/issues/2",
+      "reward_amount": 175,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-26T09:13:05Z",
       "status": "open",
       "flags": []
     },
@@ -535,20 +577,6 @@
       "flags": []
     },
     {
-      "id": "gh:6592427646",
-      "source": "github",
-      "repo": "IES-BoilerRoom/cpython-pep626-line-profiler",
-      "number": 1,
-      "title": "fix(dwarf_trace): Resolve trace frame ceiling off-by-one and PEP 626 instruction-envelope residue ($125 bounty) [collect_trace_event_frames]",
-      "url": "https://github.com/IES-BoilerRoom/cpython-pep626-line-profiler/issues/1",
-      "reward_amount": 125,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-24T22:11:25Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6541993184",
       "source": "github",
       "repo": "zhangjiayang6835-cyber/bounty-plaza",
@@ -619,20 +647,6 @@
       "flags": []
     },
     {
-      "id": "gh:6552775013",
-      "source": "github",
-      "repo": "IES-BoilerRoom/vllm-paged-kv-verifier",
-      "number": 1,
-      "title": "ci/kv_cache: Fix KV frame chunk ceiling and reconcile multi-head block stride congruences - Reward $75 USDC",
-      "url": "https://github.com/IES-BoilerRoom/vllm-paged-kv-verifier/issues/1",
-      "reward_amount": 75,
-      "reward_currency": "USD/USDC",
-      "assigned": false,
-      "posted_at": "2026-11-23T05:14:48Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6538315074",
       "source": "github",
       "repo": "IES-BoilerRoom/bgp-med-oscillation-verifier",
@@ -689,58 +703,16 @@
       "flags": []
     },
     {
-      "id": "gh:6617501337",
+      "id": "gh:6631894729",
       "source": "github",
-      "repo": "tradermarketcap/tradermarketcap-open",
-      "number": 113,
-      "title": "Supply rule for Blur (BLUR)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/113",
+      "repo": "Ikalus1988/MisakaNet",
+      "number": 5849,
+      "title": "[Bounty] Answer the 2 linked question(s)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/5849",
       "reward_amount": null,
       "reward_currency": null,
       "assigned": false,
-      "posted_at": "2026-11-26T01:35:17Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6617501033",
-      "source": "github",
-      "repo": "tradermarketcap/tradermarketcap-open",
-      "number": 112,
-      "title": "Supply rule for MANTRA (MANTRA)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/112",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-11-26T01:35:16Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6617500608",
-      "source": "github",
-      "repo": "tradermarketcap/tradermarketcap-open",
-      "number": 111,
-      "title": "Supply rule for Plasma (XPL)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/111",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-11-26T01:35:14Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6617500180",
-      "source": "github",
-      "repo": "tradermarketcap/tradermarketcap-open",
-      "number": 110,
-      "title": "Supply rule for Aster (ASTER)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/110",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-11-26T01:35:12Z",
+      "posted_at": "2026-11-26T17:24:11Z",
       "status": "open",
       "flags": []
     },
@@ -769,20 +741,6 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-11-26T01:35:08Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6617499137",
-      "source": "github",
-      "repo": "tradermarketcap/tradermarketcap-open",
-      "number": 107,
-      "title": "Supply rule for LayerZero (ZRO)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/107",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-11-26T01:35:07Z",
       "status": "open",
       "flags": []
     },
@@ -1287,6 +1245,34 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-11-24T18:21:49Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6575629264",
+      "source": "github",
+      "repo": "relayhop/sn-monetization-runtime",
+      "number": 1442,
+      "title": "[radar] SN open bounty 2026-11-24T05:55",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1442",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-24T05:55:43Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6568955502",
+      "source": "github",
+      "repo": "relayhop/sn-monetization-runtime",
+      "number": 1440,
+      "title": "[radar] SN open bounty 2026-11-23T21:13",
+      "url": "https://github.com/relayhop/sn-monetization-runtime/issues/1440",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-23T21:13:41Z",
       "status": "open",
       "flags": []
     },
