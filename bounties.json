@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T21:00:05.928Z",
-  "count": 118,
+  "generated": "2026-11-28T07:26:42.906Z",
+  "count": 119,
   "bounties": [
     {
       "id": "gh:6310407130",
@@ -139,6 +139,20 @@
       "reward_currency": "USD/USDC",
       "assigned": true,
       "posted_at": "2026-11-06T14:55:51Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6236275176",
+      "source": "github",
+      "repo": "zhangjiayang6835-cyber/bounty-plaza",
+      "number": 4225,
+      "title": "[Bounty] [Bounty $750] Fix sharded softmax on offset core grids",
+      "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4225",
+      "reward_amount": 750,
+      "reward_currency": "USD/USDC",
+      "assigned": false,
+      "posted_at": "2026-11-06T03:42:47Z",
       "status": "open",
       "flags": []
     },
@@ -675,6 +689,62 @@
       "flags": []
     },
     {
+      "id": "gh:6657333755",
+      "source": "github",
+      "repo": "odiseo159-beep/mergit-demo",
+      "number": 63,
+      "title": "Add explorerUrl: the GIWA explorer link for a tx, an address or a block",
+      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/63",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-28T01:40:42Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6657333234",
+      "source": "github",
+      "repo": "odiseo159-beep/mergit-demo",
+      "number": 62,
+      "title": "Add formatDeadline: 1796447642 → \"Dec 5, 2026, 05:14 UTC\"",
+      "url": "https://github.com/odiseo159-beep/mergit-demo/issues/62",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-28T01:40:38Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6657332529",
+      "source": "github",
+      "repo": "odiseo159-beep/mergit",
+      "number": 29,
+      "title": "Show escrow v3 and v4 payments on the builder record",
+      "url": "https://github.com/odiseo159-beep/mergit/issues/29",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-28T01:40:34Z",
+      "status": "open",
+      "flags": []
+    },
+    {
+      "id": "gh:6657332007",
+      "source": "github",
+      "repo": "odiseo159-beep/mergit",
+      "number": 28,
+      "title": "Make mergit_fund_link warn when the issue already has a live bounty",
+      "url": "https://github.com/odiseo159-beep/mergit/issues/28",
+      "reward_amount": null,
+      "reward_currency": null,
+      "assigned": false,
+      "posted_at": "2026-11-28T01:40:30Z",
+      "status": "open",
+      "flags": []
+    },
+    {
       "id": "gh:6651094947",
       "source": "github",
       "repo": "Ikalus1988/MisakaNet",
@@ -713,20 +783,6 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-11-27T17:03:51Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6650252909",
-      "source": "github",
-      "repo": "tradermarketcap/tradermarketcap-open",
-      "number": 138,
-      "title": "Supply rule for Subsquid (SQD)",
-      "url": "https://github.com/tradermarketcap/tradermarketcap-open/issues/138",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-11-27T16:19:34Z",
       "status": "open",
       "flags": []
     },
@@ -1011,20 +1067,6 @@
       "flags": []
     },
     {
-      "id": "gh:6641792110",
-      "source": "github",
-      "repo": "hanzoai/dev",
-      "number": 107,
-      "title": "[Intern] Fix intermittent snapshot ordering flake in `FxReplayFixtures.integration.test.ts` (CI Shard 7)",
-      "url": "https://github.com/hanzoai/dev/issues/107",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-11-27T07:10:52Z",
-      "status": "open",
-      "flags": []
-    },
-    {
       "id": "gh:6641791944",
       "source": "github",
       "repo": "hanzoai/cyber",
@@ -1109,12 +1151,12 @@
       "flags": []
     },
     {
-      "id": "gh:6641791571",
+      "id": "gh:6641791453",
       "source": "github",
       "repo": "hanzoai/mcp",
-      "number": 74,
-      "title": "[Intern] Multi-client MCP interoperability matrix (Claude Code, Codex, Cursor, Windsurf, Gemini CLI, VS Code)",
-      "url": "https://github.com/hanzoai/mcp/issues/74",
+      "number": 73,
+      "title": "[Intern] Automated JSON-RPC E2E test harness for all 13 HIP-0300 unified MCP tools",
+      "url": "https://github.com/hanzoai/mcp/issues/73",
       "reward_amount": null,
       "reward_currency": null,
       "assigned": false,
@@ -1123,12 +1165,12 @@
       "flags": []
     },
     {
-      "id": "gh:6641791453",
+      "id": "gh:6641791571",
       "source": "github",
       "repo": "hanzoai/mcp",
-      "number": 73,
-      "title": "[Intern] Automated JSON-RPC E2E test harness for all 13 HIP-0300 unified MCP tools",
-      "url": "https://github.com/hanzoai/mcp/issues/73",
+      "number": 74,
+      "title": "[Intern] Multi-client MCP interoperability matrix (Claude Code, Codex, Cursor, Windsurf, Gemini CLI, VS Code)",
+      "url": "https://github.com/hanzoai/mcp/issues/74",
       "reward_amount": null,
       "reward_currency": null,
       "assigned": false,
@@ -1287,34 +1329,6 @@
       "reward_currency": null,
       "assigned": false,
       "posted_at": "2026-11-27T07:10:45Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6641790609",
-      "source": "github",
-      "repo": "hanzoai/cloud",
-      "number": 84,
-      "title": "[Intern] Audit & align `Makefile` targets with canonical Hanzo CLI lifecycle contract",
-      "url": "https://github.com/hanzoai/cloud/issues/84",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-11-27T07:10:45Z",
-      "status": "open",
-      "flags": []
-    },
-    {
-      "id": "gh:6641790434",
-      "source": "github",
-      "repo": "hanzoai/cloud",
-      "number": 82,
-      "title": "[Intern] Clean-room air-gapped local boot & full `/v1` + `/mcp` smoke script",
-      "url": "https://github.com/hanzoai/cloud/issues/82",
-      "reward_amount": null,
-      "reward_currency": null,
-      "assigned": false,
-      "posted_at": "2026-11-27T07:10:44Z",
       "status": "open",
       "flags": []
     },
